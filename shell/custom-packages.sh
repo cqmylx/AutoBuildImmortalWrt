@@ -54,3 +54,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-smartdns-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
+# luci-theme-argon
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-argon"
