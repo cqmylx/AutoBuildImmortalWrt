@@ -39,7 +39,7 @@ on:
       enable_pppoe:
         description: "是否配置PPPoE拨号信息?"
         required: true
-        default: 'yes'
+        default: 'no'
         type: choice
         options:
         - 'yes'
